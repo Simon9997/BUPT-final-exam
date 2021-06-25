@@ -8,7 +8,7 @@
 
 * #### 大二上
 
-  * [数字逻辑]([https://github.com/Simon2333/BUPT-final-exam/tree/main/%E5%A4%A7%E4%BA%8C/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91](https://github.com/Simon2333/BUPT-final-exam/tree/main/大二/大二上学期/数字逻辑))
+  * [[数字逻辑]([https://github.com/Simon2333/BUPT-final-exam/tree/main/%E5%A4%A7%E4%BA%8C/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91](https://github.com/Simon2333/BUPT-final-exam/tree/main/大二/大二上学期/数字逻辑))]
   * [数据结构]([https://github.com/Simon2333/BUPT-final-exam/tree/main/%E5%A4%A7%E4%BA%8C/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91](https://github.com/Simon2333/BUPT-final-exam/tree/main/大二/大二上学期/数据结构))
   * [概率论与数理统计]([https://github.com/Simon2333/BUPT-final-exam/tree/main/%E5%A4%A7%E4%BA%8C/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AF%95%E9%A2%98](https://github.com/Simon2333/BUPT-final-exam/tree/main/大二/大二上学期/概率论与数理统计/试题))
   * [概率论与随机过程]([https://github.com/Simon2333/BUPT-final-exam/tree/main/%E5%A4%A7%E4%BA%8C/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E8%AF%95%E9%A2%98](https://github.com/Simon2333/BUPT-final-exam/tree/main/大二/大二上学期/概率论与随机过程/试题))
